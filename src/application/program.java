@@ -8,7 +8,7 @@ public class program {
 		DB.getConnection();
 		
 		DB.closeConnection();
-		System.out.println("done");
+		System.out.println("teste github");
 	}
 
 }
